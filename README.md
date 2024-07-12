@@ -26,7 +26,7 @@ Welcome to the Business Card Generator project! This project allows users to cre
 
     ```sh
     git clone https://github.com/ayubxontursunov/django_businesscard_api.git
-    cd business-card-generator
+    cd django_businesscard_api
     ```
 
 2. **Install dependencies**:
