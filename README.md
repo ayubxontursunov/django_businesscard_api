@@ -1,7 +1,7 @@
 # Business Card Generator API
 
 
-![Django REST framework Logo](https://www.django-rest-framework.org/img/logo.png)
+![Django REST framework Logo](https://www.django-rest-framework.org/img/logo-dark.png)
 
 
 Welcome to the Business Card Generator project! This project allows users to create elegant and personalized business cards using a Django REST framework. The project provides an API for users to input their details and generate a business card image.
